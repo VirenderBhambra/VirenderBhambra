@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Virender Bhambra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Chat-Gpt Clone using Supabase technology**
-
-- 🌱 I’m currently learning **Java core, Springboot**
-
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **learning new technologies and opportunities in the domain**
