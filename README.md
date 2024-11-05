@@ -5,13 +5,11 @@
 
 - 🤝 I’m looking for help with **learning new technologies and opportunities in the domain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VirenderBhambra?tab=repositoriesi](https://github.com/VirenderBhambra?tab=repositoriesi)
-
-- 💬 Ask me about **Reactjs, Expressjs**
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/VirenderBhambra?tab=repositoriesi)
 
 - 📫 How to reach me **3940virenderbhambra@gmail.com**
 
-- 📄 My resume [https://docs.google.com/document/d/17G6NnlarwzcR4ZUG2zh4x9Mb6YCeY3lUIxkwTOOFvc0/edit?usp=sharing](https://docs.google.com/document/d/17G6NnlarwzcR4ZUG2zh4x9Mb6YCeY3lUIxkwTOOFvc0/edit?usp=sharing)
+- 📄 [Resume](https://docs.google.com/document/d/1Jtj83wRFeVPTCBkkOJbMqhTZl0v0_1p6ddw1Zk4sCl4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
