@@ -19,6 +19,8 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/3940virenderbha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/3940virenderbha1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/drzombiee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/drzombiee/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Open Source Contributions</h3>
 <div align="left">
   
 [![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
