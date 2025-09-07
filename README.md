@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Virender Bhambra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- Working as a Software Developer @ Bisag-N
 
-- 🤝 I’m looking for help with **learning new technologies and opportunities in the domain**
+- 👯 Message me to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/VirenderBhambra?tab=repositoriesi)
 
 - 📫 How to reach me **3940virenderbhambra@gmail.com**
 
-- 📄 [Resume](https://docs.google.com/document/d/1Jtj83wRFeVPTCBkkOJbMqhTZl0v0_1p6ddw1Zk4sCl4/edit?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/12NgbTzQHCQMsqbP0HUjGyodpmdd0l-zQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
