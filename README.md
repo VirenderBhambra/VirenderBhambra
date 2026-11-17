@@ -108,5 +108,3 @@ Reach me at 3940virenderbhambra@gmail.com
 </picture>
 </a>
 </p>
-
-Made with [Profilescape](https://github.com/chethandvg/profilescape).
