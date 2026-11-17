@@ -14,7 +14,76 @@ Software engineer who likes building things people enjoy using. Replace this par
 
 <!-- profilescape:start -->
 
-_Your Profilescape cards will appear here after the first workflow run. See **Getting started** below._
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/hero-light.svg" alt="Virender Bhambra — Developer" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/stats-light.svg" alt="GitHub stats: 387 contributions in the last 12 months. Current streak: 4 days, Longest streak: 8 days, Commits: 6 past year, All-time: 515 since 2021, Best week: 44 in 7 days, On GitHub: 5 years." width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/3d-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/3d-light.svg" alt="3D contribution landscape: 387 contributions in the last year" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/languages-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/languages-light.svg" alt="Most used languages (by commits): JavaScript 90.1%, CSS 9.6%, Dockerfile 0.3%" width="100%" />
+</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+<a href="https://github.com/VirenderBhambra/virtual-machines-configuration-using-ansible">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-virtual-machines-configuration-using-ansible-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-virtual-machines-configuration-using-ansible-light.svg" alt="virtual-machines-configuration-using-ansible: Ansible playbooks for configuring Virtual machines using docker" width="100%" />
+</picture>
+</a>
+    </td>
+    <td width="50%">
+<a href="https://github.com/VirenderBhambra/Blog-Application-Express-Server">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-blog-application-express-server-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-blog-application-express-server-light.svg" alt="Blog-Application-Express-Server" width="100%" />
+</picture>
+</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+<a href="https://github.com/VirenderBhambra/Blog-Application-NextJs-Client">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-blog-application-nextjs-client-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-blog-application-nextjs-client-light.svg" alt="Blog-Application-NextJs-Client" width="100%" />
+</picture>
+</a>
+    </td>
+    <td width="50%">
+<a href="https://github.com/VirenderBhambra/postgres16-and-pgAdmin-docker-configuration-setup">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-postgres16-and-pgadmin-docker-configuration-setup-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-postgres16-and-pgadmin-docker-configuration-setup-light.svg" alt="postgres16-and-pgAdmin-docker-configuration-setup" width="100%" />
+</picture>
+</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/VirenderBhambra">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/social-github-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/social-github-light.svg" alt="GitHub" />
+</picture>
+</a>
+</p>
 
 <!-- profilescape:end -->
 
