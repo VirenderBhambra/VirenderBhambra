@@ -4,7 +4,7 @@
 -->
 
 ### Hi, I'm VIRENDER BHAMBRA
-A software developer passionate about building practical, scalable, and reliable applications. I primarily work with Java, Spring Boot, React, and PostgreSQL, with an interest in backend engineering, system design, and infrastructure.
+A software developer passionate about building practical, scalable, and reliable applications. I primarily work with Java, Spring Boot, React, and PostgreSQL, with an interest in backend engineering and system design.
 
 💻 What I Work With
 
@@ -36,6 +36,8 @@ Always learning, building, and exploring better ways to engineer software.
 
 Reach me at 3940virenderbhambra@gmail.com
 
+📄 Resume: [View My Resume](https://your-resume-link-here)
+
 <!-- profilescape:start -->
 
 <picture>
@@ -45,7 +47,7 @@ Reach me at 3940virenderbhambra@gmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/stats-light.svg" alt="GitHub stats: 387 contributions in the last 12 months. Current streak: 4 days, Longest streak: 8 days, Commits: 6 past year, All-time: 515 since 2021, Best week: 44 in 7 days, On GitHub: 5 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/stats-light.svg" alt="GitHub stats: 387 contributions in the last 12 months. Current streak: 4 days." width="100%" />
 </picture>
 
 <picture>
@@ -64,7 +66,7 @@ Reach me at 3940virenderbhambra@gmail.com
 <a href="https://github.com/VirenderBhambra/virtual-machines-configuration-using-ansible">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-virtual-machines-configuration-using-ansible-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-virtual-machines-configuration-using-ansible-light.svg" alt="virtual-machines-configuration-using-ansible: Ansible playbooks for configuring Virtual machines using docker" width="100%" />
+  <img src="https://raw.githubusercontent.com/VirenderBhambra/VirenderBhambra/profilescape-output/repo-virenderbhambra-virtual-machines-configuration-using-ansible-light.svg" alt="virtual-machines-configuration-using-ansible" width="100%" />
 </picture>
 </a>
     </td>
