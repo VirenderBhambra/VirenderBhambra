@@ -36,7 +36,7 @@ Always learning, building, and exploring better ways to engineer software.
 
 Reach me at 3940virenderbhambra@gmail.com
 
-📄 Resume: [View My Resume](https://your-resume-link-here)
+📄 Resume: [View My Resume](https://drive.google.com/file/d/126DJL40dBQM3dlxCuqB4fKQ6DX7gf9K2/view?usp=sharing)
 
 <!-- profilescape:start -->
 
