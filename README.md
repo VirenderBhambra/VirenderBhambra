@@ -3,14 +3,38 @@
   Everything between the markers is rewritten by .github/workflows/profilescape.yml.
 -->
 
-### Hi, I'm Your Name
+### Hi, I'm VIRENDER BHAMBRA
+A software developer passionate about building practical, scalable, and reliable applications. I primarily work with Java, Spring Boot, React, and PostgreSQL, with an interest in backend engineering, system design, and infrastructure.
 
-Software engineer who likes building things people enjoy using. Replace this paragraph with a sentence or two about what you do and what you care about.
+💻 What I Work With
 
-- Currently working on **a project you are proud of**
-- Learning **something new**
-- Ask me about **topics you love talking about**
-- Reach me at **your website, email or social handle**
+Backend: Java, Spring Boot, Spring Security, REST APIs
+
+Frontend: React, JavaScript, HTML, CSS
+
+Database: PostgreSQL, SQL, Database Optimization
+
+Infrastructure: Linux, Nginx, Apache Tomcat
+
+🚀 What I'm Exploring
+
+Designing scalable and maintainable software architectures
+
+Advanced Spring Boot and Spring Security
+
+System Design and Performance Optimization
+
+Infrastructure Automation and DevOps
+
+AI-powered application development
+
+🎯 My Approach
+
+I believe in understanding the fundamentals behind technologies, writing maintainable code, and building solutions that work reliably in real-world production environments.
+
+Always learning, building, and exploring better ways to engineer software.
+
+Reach me at 3940virenderbhambra@gmail.com
 
 <!-- profilescape:start -->
 
@@ -84,20 +108,5 @@ Software engineer who likes building things people enjoy using. Replace this par
 </picture>
 </a>
 </p>
-
-<!-- profilescape:end -->
-
----
-
-## Getting started
-
-_Delete this section once your cards show up._
-
-1. **Name the repository after your username.** GitHub shows the README of the repository named exactly like your account (for example `octocat/octocat`) on your profile. If you picked another name, rename it under **Settings → General**.
-2. **Run the workflow once.** Open the **Actions** tab, enable workflows if GitHub asks, choose **Profilescape** and click **Run workflow**. Your cards appear between the markers above in about a minute, then refresh every day.
-3. **Make it yours.** Edit the intro above, then change `theme`, `cards` and the other options in [`.github/workflows/profilescape.yml`](.github/workflows/profilescape.yml). Try every card and theme in the [playground](https://chethandvg.github.io/profilescape) first.
-4. **Optional: count private contributions.** The default workflow token only sees public activity. Create a [fine-grained personal access token](https://github.com/settings/personal-access-tokens/new) for your account with **All repositories** and the read-only **Contents** and **Metadata** repository permissions, save it under **Settings → Secrets and variables → Actions** as `PROFILESCAPE_TOKEN`, and the workflow picks it up automatically.
-
-GitHub pauses scheduled workflows in repositories with no activity for 60 days. If your cards stop updating, re-enable the workflow from the **Actions** tab.
 
 Made with [Profilescape](https://github.com/chethandvg/profilescape).
